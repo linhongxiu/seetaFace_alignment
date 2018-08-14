@@ -1,0 +1,7 @@
+﻿  face_alignment_test.cpp
+..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceAlignment\src\test\face_alignment_test.cpp(80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  All 121 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Alignment.vcxproj -> D:\人脸识别\SeetaFaceProject\Alignment\x64\Release\Alignment.exe
+  Alignment.vcxproj -> D:\人脸识别\SeetaFaceProject\Alignment\x64\Release\Alignment.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  face_alignment_test.cpp
+d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facealignment\src\test\face_alignment_test.cpp(80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Alignment.vcxproj -> D:\人脸识别\SeetaFaceProject\Alignment\x64\Debug\Alignment.exe
+  Alignment.vcxproj -> D:\人脸识别\SeetaFaceProject\Alignment\x64\Debug\Alignment.pdb (Full PDB)
